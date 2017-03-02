@@ -24,6 +24,7 @@ A spotify alarm clock Raspberry based
     - Obsolete : install iris (webclient)
         - pip install Mopidy-Iris
     - sudo service mopidy restart
+    - sudo update-rc.d mopidy enable
     
     -----------
     Tests 
