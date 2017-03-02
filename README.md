@@ -1,2 +1,2 @@
 # Wakify
-A spotify alarm clock raspberry based
+A spotify alarm clock Raspberry based
