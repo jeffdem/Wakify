@@ -22,6 +22,7 @@ A spotify alarm clock Raspberry based
         - username = yourlogin
         - password = yoursecretpass
     - Obsolete : install iris (webclient)
+        - apt-get install python-pip
         - pip install Mopidy-Iris
     - sudo service mopidy restart
     - sudo update-rc.d mopidy enable
